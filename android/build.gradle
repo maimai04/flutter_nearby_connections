@@ -28,7 +28,7 @@ android {
     compileSdkVersion 34
     
     // Added the namespace here, which was missig and returning error as Andriod expects namespace now
-    namespace "com.example.flutter_nearby_connections"
+    namespace "com.flutter_nearby_connections"
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
